@@ -1,7 +1,12 @@
 # elixir
 <html>
   <head>
-    
+    <style>
+      ul {
+        list-style-type:none;
+        margin-left: 40px;
+      }
+    </style>
   </head>
   <body>
     <ul>
